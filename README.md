@@ -1,4 +1,4 @@
-Proyecto ángular grupo 7
+Proyecto Angular grupo 7
 ========================
 
 Instrucciones de uso Plantilla Angular
